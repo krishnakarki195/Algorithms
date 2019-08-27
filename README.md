@@ -1,3 +1,3 @@
-# Algorithms
+# Sorting algorithms
 
 
