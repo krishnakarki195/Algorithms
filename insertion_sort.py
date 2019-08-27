@@ -1,3 +1,9 @@
+"""
+author: Krishna Karki
+Created date: 8/27/2019
+description: written in python
+"""
+
 def insertion_sort(input_list):
 	for i in range(0,len(input_list)):
 		cursor = input_list[i]
@@ -7,3 +13,5 @@ def insertion_sort(input_list):
 			position  = position - 1
 		input_list[position] = cursor
 	return input_list
+
+
