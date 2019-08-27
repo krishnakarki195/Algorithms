@@ -12,3 +12,4 @@ def selection_sort(input_list):
 				minimum = j
 		input_list[minimum], input_list[i] = input_list[i], input_list[minimum]
 	return input_list
+
