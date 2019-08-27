@@ -1,3 +1,9 @@
+"""
+author: Krishna Karki
+Created date: 8/27/2019
+description: written in python
+"""
+
 def selection_sort(input_list):
 	for i in range(len(input_list)):
 		minimum = i
