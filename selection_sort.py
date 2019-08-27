@@ -1,6 +1,6 @@
 """
 author: Krishna Karki
-Created date: 8/27/2019
+created date: 8/27/2019
 description: written in python
 """
 
