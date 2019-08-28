@@ -1,3 +1,9 @@
+"""
+author: Krishna Karki
+created date: 8/28/2019
+description: written in python
+"""
+
 def merge(left, right, merged_list):
 	left_cursor,right_cursor = 0,0
 	while left_cursor < len(left) and right_cursor < len(right):
