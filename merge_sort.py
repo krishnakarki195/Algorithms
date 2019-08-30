@@ -1,7 +1,7 @@
 """
 author: Krishna Karki
 created date: 8/28/2019
-description: written in python
+description: merge sorting written in python
 """
 
 class MergeSort(object):
@@ -31,6 +31,6 @@ class MergeSort(object):
 
 my_obj = MergeSort()
 my_list = [2,4,5,2,1,7,8,9,5,6]
-print("Befor sorting: ", my_list)
+print("Before sorting: ", my_list)
 my_list = my_obj.merge_sort(my_list)
 print("After sorting: ", my_list)
