@@ -1,7 +1,7 @@
 """
 author: Krishna Karki
 created date: 8/28/2019
-description: merge sorting written in python
+description: merge sort written in python
 """
 
 class MergeSort(object):
